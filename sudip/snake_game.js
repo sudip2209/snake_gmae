@@ -1,7 +1,7 @@
 food_image=new Image();
-food_image.src="apple.png";
+food_image.src="sudip/apple.png";
 trophy=new Image();
-trophy.src="trophy_snake_game.png";
+trophy.src="sudip/trophy_snake_game.png";
 score=0;
 
 
