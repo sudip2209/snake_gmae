@@ -106,7 +106,7 @@ function init()
   else if(pressed_key.key=="ArrowDown")
     {snake.direction="down";}
   }
-  /*document.addEventListener('keydown',keyPressed);*/
+  document.addEventListener('keydown',keyPressed);
 }
 function draw()
 {  obj.clearRect(0,0,w,h);
