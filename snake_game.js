@@ -80,15 +80,15 @@ function init()
     {
       snake.direction="down";
     }
-    else if(sss.target.src=="https://sudip2209.github.io/sudip/left.png")
+    else if(sss.target.src=="https://sudip2209.github.io/snake_gmae/sudip/left.png")
     {
       snake.direction="left";
     }
-    else if(sss.target.src=="https://sudip2209.github.io/sudip/up.png")
+    else if(sss.target.src=="https://sudip2209.github.io/snake_gmae/sudip/up.png")
     {
       snake.direction="up";
     }
-    else if(sss.target.src=="https://sudip2209.github.io/sudip/right.png")
+    else if(sss.target.src=="https://sudip2209.github.io/snake_gmae/sudip/right.png")
     {
       snake.direction="right";
     }
