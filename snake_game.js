@@ -76,7 +76,7 @@ function init()
   snake.createSnake();
   function f1(sss)
   {
-    if(sss.target.src=="https://sudip2209.github.io/sudip/down.png")
+    if(sss.target.src=="https://sudip2209.github.io/snake_gmae/sudip/down.png")
     {
       snake.direction="down";
     }
